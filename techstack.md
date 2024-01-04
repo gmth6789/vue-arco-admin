@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/vue-arco-admin is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -13,11 +14,13 @@ gmth6789/vue-arco-admin is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/vue-arco-admin is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -29,14 +32,15 @@ gmth6789/vue-arco-admin is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/vue-arco-admin](https://github.com/gmth6789/vue-arco-admin)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/09/23 <br/>Report generated|
+|28<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -165,9 +169,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (13)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -176,9 +180,11 @@ Full tech stack [here](/techstack.md)
 |[@types/node](https://www.npmjs.com/@types/node)|v18.7.18|12/13/22|xbmlz |MIT|N/A|
 |[commitlint](https://www.npmjs.com/commitlint)|v17.1.2|12/13/22|xbmlz |MIT|N/A|
 |[consola](https://www.npmjs.com/consola)|v2.15.3|10/17/22|Petrichor |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|12/13/22|xbmlz |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|12/13/22|xbmlz |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|09/02/22|xbmlz |MIT|N/A|
 |[mitt](https://www.npmjs.com/mitt)|v3.0.0|09/02/22|xbmlz |MIT|N/A|
-|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|08/15/22|xbmlz |MIT|N/A|
+|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|08/15/22|xbmlz |MIT|[CVE-2023-26158](https://github.com/advisories/GHSA-mh8j-9jvh-gjf6) (High)|
 |[nprogress](https://www.npmjs.com/nprogress)|v0.2.0|09/22/22|xbmlz |MIT|N/A|
 |[sortablejs](https://www.npmjs.com/sortablejs)|v1.15.0|10/31/22|Petrichor |MIT|N/A|
 |[terser](https://www.npmjs.com/terser)|v5.15.1|10/17/22|Petrichor |BSD-2-Clause|N/A|
@@ -188,4 +194,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
